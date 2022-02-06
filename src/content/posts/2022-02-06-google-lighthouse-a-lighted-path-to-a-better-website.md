@@ -4,7 +4,7 @@ title: Google Lighthouse, a Lighted Path to a Better Website
 slug: /.lighthouse
 date: 2022-02-06 16:28
 description: guide
-featuredImage: /assets/website-metrics-with-google-lighthouse.svg
+featuredImage: ""
 ---
 <!--StartFragment-->
 
