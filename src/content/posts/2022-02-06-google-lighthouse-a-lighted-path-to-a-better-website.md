@@ -18,7 +18,7 @@ In today's blog we are going to explore and explain what Google Lighthouse is an
 
 Let's start with the definition. Google Lighthouse is an open-source page experience tool developed by Google; the idea is to help website owners improve the quality of their web pages. Google Lighthouse executes five audits: performance, accessibility, best practices, SEO (which stands for Search Engine Optimization), and progressive web app. These five audits are now related with the new Core Web Vitals. Core Web Vitals, defined by Google, provides a series of metrics for web developers and owners that tells them where they should focus in order to optimize user experience. And by seeing them all together you can get an excellent idea of the quality of the operation of your site and its performance on mobile, desktop or web app. 
 
-![](/assets/audits.png)
+![metrics](/assets/audits.png "Metrics")
 
 <!--EndFragment-->
 
@@ -46,15 +46,13 @@ What is Performance in Google Lighthouse? 
 
 <!--EndFragment-->
 
-![](/assets/performance.png)
+![performance](/assets/performance.png "Performance")
 
 <!--StartFragment-->
 
 In the Performance part of the Google Lighthouse report the score is based on 6 metrics, each contributing to a total performance percentage. In Lighthouse 8 they have the following weight in the audit: 
 
-  
-
-![](/assets/metrics.png)
+![report](/assets/metrics.png "Report")
 
 Larger Contentful Paint (LCP): 25%. 
 
@@ -67,8 +65,6 @@ Speed Index (SI): 10%. 
 Time to interactive (TTI): 10%. 
 
 Cumulative Layout Shift (CLS): 15%. 
-
- 
 
 Breaking down each: 
 
