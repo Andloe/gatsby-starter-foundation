@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Animation & Performance
+title: A Glance at CSS Animations & Performance
 slug: /cssanimations
 date: 2022-03-20 19:41
 description: css animations and performance
